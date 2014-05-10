@@ -1,0 +1,6 @@
+maintainer "ADADA, LLC"
+maintainer_email "chef@adadabase.com"
+license "MIT"
+description "Installs hayai C++ benchmarking tools."
+version "0.1"
+long_description "Installs hayai C++ benchmarking tools."
