@@ -1,3 +1,4 @@
+name "hayai"
 maintainer "ADADA, LLC"
 maintainer_email "chef@adadabase.com"
 license "MIT"
