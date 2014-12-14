@@ -1,4 +1,4 @@
-git "/tmp" do
+git "/tmp/hayai" do
   repository node[:hayai][:git]
   action :checkout
   reference "master"
